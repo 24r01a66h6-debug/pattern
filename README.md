@@ -39,9 +39,6 @@ public class Hello {
 
 numbers-------- 
 
-/**
- * Hello
- */
 public class Hello {
 
     public static void main(String[] args) {
